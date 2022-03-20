@@ -6,7 +6,7 @@ import socket
 
 # Get the URL by download app IP Webcam in play store. Then make sure that your PC and your phone are in the same wifi network.
 # In IP Webcam app, click in "Start Server".
-# To this code work, you need to maintain ther server running
+# To this code work, you need to maintain ther server running in your mobile phone
 
 url = "http://192.168.0.249:8080/shot.jpg"
 
