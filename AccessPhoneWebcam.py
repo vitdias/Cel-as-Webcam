@@ -2,7 +2,6 @@ import requests
 import cv2
 import numpy as np
 import imutils
-import socket
 
 # Get the URL by download app IP Webcam in play store. Then make sure that your PC and your phone are in the same wifi network.
 # In IP Webcam app, click in "Start Server".
